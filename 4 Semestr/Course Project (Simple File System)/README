@@ -1,15 +1,15 @@
 для начала работы нужно ввести команду "init", она создаст дискриптор и корневой каталог.
 
-make_dir [dir_name]				- создание каталога с именем dir_name
-make_file [file_name] ()			- создание файла с названием file_name и размером size_file
-change [name_dir]				- сменить текущий каталог на dir_name
-rename_dir [new_dir_name]			- изменить название текущего каталога на new_dir_name
-rename_file [file_name] [new_file_name]	- переименовать файл с названием file_name на new_file_name
-delete_dir [dir_name]				- удвление каталога с названием dir_name
-delete_file [file_name]			- удаление файла с названием file_name
-clean						- очистка файловой системы
-print 						- вывод файловой системы на экран
-esc						- выход
+make_dir [dir_name]				              - создание каталога с именем dir_name
+make_file [file_name] ()			          - создание файла с названием file_name и размером size_file
+change [name_dir]				                - сменить текущий каталог на dir_name
+rename_dir [new_dir_name]			          - изменить название текущего каталога на new_dir_name
+rename_file [file_name] [new_file_name] - переименовать файл с названием file_name на new_file_name
+delete_dir [dir_name]				            - удвление каталога с названием dir_name
+delete_file [file_name]			            - удаление файла с названием file_name
+clean						                        - очистка файловой системы
+print 						                      - вывод файловой системы на экран
+esc						                          - выход
 
 [] - обязательный параметр
 () - необязательный параметр
