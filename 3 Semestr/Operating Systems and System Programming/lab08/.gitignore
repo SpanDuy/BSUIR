@@ -1,0 +1,14 @@
+*.o
+server
+client
+.vscode/
+lab08.pdf
+
+example/
+lab02
+lab02.pdf
+lab07
+comand
+file
+file_link
+link_file_link

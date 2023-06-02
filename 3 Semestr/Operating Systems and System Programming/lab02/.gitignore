@@ -1,0 +1,6 @@
+parent
+child
+*.o
+variable.txt
+README
+lab02.pdf

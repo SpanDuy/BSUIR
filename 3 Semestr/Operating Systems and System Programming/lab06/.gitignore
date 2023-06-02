@@ -1,0 +1,8 @@
+main
+show
+generate
+*.o
+README
+lab06.pdf
+file
+.vscode
